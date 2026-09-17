@@ -2,6 +2,6 @@
 
 ## 📊 Dashboard Preview
 
-Screenshot 2026-09-17 162256.png
+![AI-Powered Dashboard](dashboard.png)
 
 
